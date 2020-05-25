@@ -124,3 +124,7 @@ In this policy, the least frequently-used entries are evicted.
 ### Random Replacement (RR)
 
 In this policy, a random element is removed to free up space when needed.
+
+
+### Extra:
+1. https://medium.com/datadriveninvestor/all-things-caching-use-cases-benefits-strategies-choosing-a-caching-technology-exploring-fa6c1f2e93aa
