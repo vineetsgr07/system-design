@@ -1,0 +1,23 @@
+## Programming Language Resources
+
+- C++
+    - [C++ Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
+    - [STL Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
+    - basics
+    - pointers
+    - functions
+    - references
+    - templates
+    - compilation
+    - scope & linkage
+    - namespaces
+    - OOP
+    - STL
+    - [functors](http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html)
+    - [C++ at Google (video)](https://www.youtube.com/watch?v=NOCElcMcFik)
+    - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+        - Google uses clang-format (there is a command line "style" argument: -style=google)
+    - [Efficiency with Algorithms, Performance with Data Structures (video)](https://youtu.be/fHNmRkzxHWs)
+    - [Review of C++ concepts (video)](https://www.youtube.com/watch?v=Rub-JsjMhWY)
+    - [Let us C++](https://books.google.co.in/books/about/Let_Us_C++.html?id=6HrjAAAACAAJ)
+    - [C++ Primer](https://books.google.co.in/books/about/C++_Primer.html?id=J1HMLyxqJfgC&redir_esc=y)
