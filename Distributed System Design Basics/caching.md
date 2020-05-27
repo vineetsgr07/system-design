@@ -128,3 +128,4 @@ In this policy, a random element is removed to free up space when needed.
 
 ### Extra:
 1. https://medium.com/datadriveninvestor/all-things-caching-use-cases-benefits-strategies-choosing-a-caching-technology-exploring-fa6c1f2e93aa
+2. https://codeahoy.com/2017/08/11/caching-strategies-and-how-to-choose-the-right-one/
