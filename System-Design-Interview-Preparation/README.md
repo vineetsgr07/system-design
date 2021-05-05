@@ -14,11 +14,12 @@ For a very broad overview please go through these lectures, really useful (Ref: 
 * [Designing data intensive applications](https://github.com/sjtuhjh/appdocs/blob/master/BooksAndPapers/GeneralPapers/Designing%20Data-Intensive%20Applications.pdf) 
 
 ## Thought Process for System design interviews
+
 * This link gives a broad overview of what to expect (Ref: http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 * How to succeed in a system design interview (Ref: https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26)
 * System design cheat sheet (Ref: https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 * Article about logs and tradeoffs (Ref: https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
-
+* CodeKarle - playlist for system design interview questions (Ref: https://www.youtube.com/watch?v=EpASu_1dUdE&list=PLhgw50vUymyckXl3D1IlXoVl94wknJfUC)
 * Blogs about designing high scalable applications (Ref: http://highscalability.com)
 * Distributed System Reading list - has a links to lot of other articles (Ref: http://dancres.github.io/Pages/)
 * Another nice article about scalable web architecture - (Ref: http://www.aosabook.org/en/distsys.html)
@@ -30,6 +31,7 @@ For a very broad overview please go through these lectures, really useful (Ref: 
 * Anatomy of System Design - (Ref: https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f)
 * Walking through System Design - (Ref: https://medium.com/better-programming/walking-through-the-system-design-interview-679a408c048f)
 * More System Design links- (Ref: https://github.com/checkcheckzz/system-design-interview#toc)
+* How to choose the correct storage solutions - (Ref: https://www.youtube.com/watch?v=cODCpXtPHbQ)
 
 
 ## <a name='myapproach'>How to approach the system design questions in interviews</a> (Ref: https://github.com/shashank88/system_design)
